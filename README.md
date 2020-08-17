@@ -1,6 +1,8 @@
 # Asus-TUF-Z490
 
 # General
+   * OpenCore 0.6.0
+   * MacOS 10.15.6
 
 ## Hardware
    *  MB: Asus TUF Gaming Z490-Plus
