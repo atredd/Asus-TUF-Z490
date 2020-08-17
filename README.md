@@ -1,6 +1,6 @@
 # Asus-TUF-Z490
 
-### General
+# General
 
 ## Hardware
     * MB: Asus TUF Gaming Z490-Plus
@@ -12,4 +12,6 @@
     * PSU: Corsair RM650
     * Case: Fractal Design - Define 7 Compact
     
-## 
+## Infos
+   * This config.plist has turned off debugging, logging,...
+   * Configure SMBIOS on your own
